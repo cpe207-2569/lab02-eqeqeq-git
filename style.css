@@ -1,0 +1,27 @@
+.center {
+  color: rgb(255, 75, 105);
+  font-family: "Mitr", sans-serif;
+  text-align: center;
+}
+
+.text-container {
+  border: solid pink;
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 13px;
+  margin-bottom: 35px;
+}
+
+.text-container > h3 {
+  color: pink;
+  font-weight: bold;
+  font-family: 'Prompt', sans-serif;
+}
+
+.desc-container {
+  color: rgb(68, 68, 68);
+  font-family: 'Mitr', sans-serif;
+  font-weight: normal;
+  line-height: 1.2;
+}
